@@ -1,4 +1,4 @@
-import 'package:dating_app/presentation/screens/login_screen.dart';
+import 'package:dating_app/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
